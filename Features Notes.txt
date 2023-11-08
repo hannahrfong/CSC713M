@@ -1,0 +1,202 @@
+?
+- dapat ba lahat wrt income? region?
+
+1 Demographics
+Region
+Agricultural Household indicator ]
+Household Head Sex
+Household Head Age
+Household Head Marital Status ]
+Household Head Highest Grade Completed
+Household Head Job or Business Indicator - unemployed/employed
+Household Head Occupation []
+    - very specific
+    - can show for the top 5 wealthiest and poorest household
+Household Head Class of Worker
+
+2 Household composition
+Type of Household ]
+Total Number of Family members 
+Members with age less than 5 year old ] 
+Members with age 5 - 17 years old ]
+Total number of family members employed 
+
+3 Socio economic
+Total Household Income
+Main Source of Income
+Total Income from Entrepreneurial Activities ]
+
+- per income class:
+Type of Building/House
+Type of Roof
+Type of Walls
+House Floor Area
+House Age
+Number of bedrooms
+Tenure Status
+Toilet Facilities
+Electricity
+Main Source of Water Supply
+Number of Television
+Number of CD/VCD/DVD
+Number of Component/Stereo set
+Number of Refrigerator/Freezer
+Number of Washing Machine
+Number of Airconditioner
+Number of Car, Jeep, Van
+Number of Landline/wireless telephones
+Number of Cellular phone
+Number of Personal Computer
+Number of Stove with Oven/Gas Range
+Number of Motorized Banca
+Number of Motorcycle/Tricycle
+
+4 Expenditure
+- per income class:
+Total Food Expenditure
+Bread and Cereals Expenditure
+Total Rice Expenditure
+Meat Expenditure
+Total Fish and  marine products Expenditure
+Fruit Expenditure
+Vegetables Expenditure
+Restaurant and hotels Expenditure
+Alcoholic Beverages Expenditure
+Tobacco Expenditure
+Clothing, Footwear and Other Wear Expenditure
+Housing and water Expenditure
+Imputed House Rental Value
+Medical Care Expenditure
+Transportation Expenditure
+Communication Expenditure
+Education Expenditure
+Miscellaneous Goods and Services Expenditure
+Special Occasions Expenditure
+Crop Farming and Gardening expenses
+
+
+
+
+
+
+-----------------------
+FINAL NEW LIST:
+
+*DEMOGRAPHICS 
+/ 10. records per region - just to see distribution
+/ 12. income per region 
+/ 1. Distribution of age
+/ 2. Distribution of sex 
+/ - as a whole
+/ - per class of worker 
+/ 3. Distribution of education per income level 
+/ 4. Distribution of unemployed
+/ 5. Occupation - top 5 rich and poor
+/ 11. Income per class of worker - baliktad ata 
+
+6. # of family members per income level
+7. # of family members employed per income level?
+
+/ 8. per income class
+/ - number of records (in table + graph)
+/ - mean income
+/ - mode/mean of assets 
+
+/ 9. expenditure per income class - remove duplicates
+
+/ -- main source of income per?
+
+/ 1. Main source of income
+/ 2. Occupation
+/ 3. Employed/unemployed
+/ 4. Class of worker 
+
+
+
+per income level
+per region
+
+----------------------------
+🌟 FINAL FINAL
+
+/ 1. Number of records per region
+/ 2. Distribution of household head age 
+/ 3. Distribution of household head sex 
+/ 5. Distribution of unemployed household head per region
+/ 6. Average income per region 
+/ 4. Ratio of sex per class of worker
+ 
+8. Summary statistics per income level
+    - number of records per income level
+    - mean income per income level
+    - mode/mean of assets per income level 
+/ 9. Number of records per income level (bar graph)
+/ 10. Ratio of educational attainment per income level
+/ 12. Ratio of main source of income per income level 
+/ 13. Ratio of class of worker per income level 
+/ 11. Occupation of top 5 poorest and richest
+7. Number of family members (and which are employed) per income level
+
+
+
+
+14. Ratio of expenses per income level 
+
+
+!!! Correlation?
+
+-----------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+COPY:
+FINAL FINAL
+
+A. Describe the Demographics
+/ 1. Number of records per region
+/ 2. Distribution of household head age 
+/ 3. Distribution of household head sex 
+4. Ratio of sex per class of worker 
+5. Distribution of unemployed household head per region
+6. Average income per region 
+7. Number of family members (and which are employed) per income level 
+
+B. Income/assets
+😡1. Summary statistics per income level - CHANGE TO CORRELATION OR SMTH
+    - number of records per income level
+    - mean income per income level
+    - mode/mean of assets per income level 
+/ 1.1 Number of records per income level (bar graph)
+/ 2. Ratio of educational attainment per income level
+3. Occupation of top 5 poorest and richest
+/ 4. Ratio of main source of income per income level 
+5. Ratio of class of worker per income level 
+
+C. Expense
+1. Ratio of expenses per income level 
+
+!! correlation
+
+
+
+
+
+
+
+
+
+
+
+
