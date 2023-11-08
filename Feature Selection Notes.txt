@@ -1,0 +1,43 @@
+Filter method
+1. Remove job indicator - based on EDA 
+
+2. Categorical data to Categorical
+- Chi-Squared test (contingency tables)
+- Mutual Information
+
+3. Numeric data to Categorical
+- ANOVA correlation coefficient (linear)
+- Kendall’s rank coefficient (nonlinear)
+
+Wrapper method 
+
+
+----------------------
+1. Identify key drivers of income 
+- Feature importance from tree-based models
+- lasso Regression
+- correlation analysis 
+- mutual information or information gain
+- PCA 
+- decision trees 
+
+2. Predict the income class 
+- Logistic Regression (Multinomial)
+- Decision trees and random forest
+- Gradient boosting models
+- SVM
+- KNN
+- Neural Networks (Deep Learning)
+
+
+-----------
+Filter method
+1. Remove job indicator - based on EDA 
+
+2. Categorical data to income 
+- ANOVA correlation coefficient
+- Kendall's rank coefficient 
+
+3. Numeric data to income 
+- Pearson's correlation coefficient
+- Spearman's rank coefficient 
